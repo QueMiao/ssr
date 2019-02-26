@@ -1,0 +1,18 @@
+声明：
+    一键脚本搭建ss/ssr服务+开启bbr加速
+       Copyright (c) 2019 雀雀博客
+用法：
+    显示版本：
+        ssr.sh -v|v|version
+    显示帮助：
+        ssr.sh [-h|h|help]
+    一键安装ss:
+        ssr.sh -i|i|install
+    一键卸载ss：
+	ssr.sh -uninstall
+    一键安装ssr:
+	ssr.sh -ssr
+    显示ss链接:
+        ssr.sh -sslink
+    安装BBR加速：
+        ssr.sh -bbr
